@@ -19,6 +19,3 @@ Whether you're a food enthusiast, a nutrition-conscious individual, or a curious
 
 📸🍴 Try it now and share your delicious discoveries with us! Your feedback is essential in refining the app's performance and enhancing its accuracy.
 
----
-
-Feel free to customize this GitHub description according to your preferences and project details.
