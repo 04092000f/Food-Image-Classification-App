@@ -4,8 +4,10 @@ import cv2
 import numpy as np
 from PIL import Image
 
+# You can download the model file from the link: https://drive.google.com/file/d/1Qo5CgyvR09CUoF6lAJDG2ZpgVwTC7uEJ/view?usp=drive_link
+
 # Load the trained model
-model = tf.keras.models.load_model("C://Users//aisup//Downloads//Efficientnet_model.hdf5")
+model = tf.keras.models.load_model("Path to your model file")
 
 # Map numerical class labels to text labels
 class_labels = {
